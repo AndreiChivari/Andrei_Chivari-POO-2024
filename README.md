@@ -3,3 +3,6 @@ Programe laborator POO 08.03.2024:
 * Persoane
 * Carti
 * Animals
+
+Program laborator POO 23.03.2024:
+* CreditOrganizer
